@@ -3,7 +3,7 @@
 import React, { useState } from 'react'
 import { nanoid } from "nanoid"
 
-export default function Main() {
+export default function Crud() {
 
     // 1. ESTADOS LOCALES
 
@@ -253,8 +253,4 @@ export default function Main() {
         </>
     )
 }
-
-
-
-
 
