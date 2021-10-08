@@ -20,10 +20,9 @@ export default function Header() {
                                     CRUD c/Mike
                                 </Link>
 
-                                <a href="/crud-me" class="text-base font-medium text-white hover:text-indigo-50" key="Pricing">
-                                    CRUD s/Mike
-                                </a>
-
+                                <Link to="/crud-me" class="text-base font-medium text-white hover:text-indigo-50" key="Solutions">
+                                    CRUD c/Mike
+                                </Link>
                                 <Link to="/financial-app" class="text-base font-medium text-white hover:text-indigo-50" key="Docs">
                                     App Financiera
                                 </Link>
